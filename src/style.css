@@ -1,0 +1,51 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cubo{
+
+margin: 10%;
+display: flex;
+justify-content: center;
+border-color: black;
+height: 100px;
+display: grid;
+align-content: center;
+       
+
+}
+
+body{
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    padding: 80px;
+    background-color: #fff;
+    box-shadow: 0 15px 25px rgba(0,0,0,0.3);
+    margin: 2%;
+}
+
+
+
+
+h1{
+text-align: center;
+
+}
+
+
+
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(113,113,243);
+  
+}
+
